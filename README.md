@@ -105,4 +105,4 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+This was, in my opinion a very interesting but difficult practice. At the begining I didn't really understand how to imprement the keyboard matrix, however with the explanation in class and some outside reaserch that I did, I manage to complete the code that we started in class. However, even tho I think that I understood the concepts needed for this practice I think it was really important for us to have somewhere to actually implement and test the keyboard, because without this, we might be having mistakes without even knowing about them. Very interesting practice but really difficult to learn from it without verifying our results. 
